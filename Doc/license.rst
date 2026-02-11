@@ -599,7 +599,7 @@ interface::
 SipHash24
 ---------
 
-The file :file:`Python/pyhash.c` contains Marek Majkowski's implementation of
+The file :file:`Python/pyhash.c` contains Marek Majkowski' implementation of
 Dan Bernstein's SipHash24 algorithm. It contains the following note::
 
   <MIT License>
