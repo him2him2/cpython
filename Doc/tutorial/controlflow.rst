@@ -441,7 +441,7 @@ Several other key features of this statement:
   ``False`` and ``None`` are compared by identity.
 
 - Patterns may use named constants.  These must be dotted names
-  to prevent them from being interpreted as a capture variable::
+  to prevent them from being interpreted as capture variables::
 
       from enum import Enum
       class Color(Enum):
