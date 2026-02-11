@@ -155,8 +155,8 @@ that takes an iterable is :func:`sum`::
     6
 
 Later we will see more functions that return iterables and take iterables as
-arguments.  In chapter :ref:`tut-structures`, we will discuss in more detail
-:func:`list`.
+arguments.  In chapter :ref:`tut-structures`, we will discuss :func:`list` in more
+detail.
 
 .. _tut-break:
 
