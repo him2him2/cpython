@@ -173,7 +173,7 @@ Readline configuration
 On systems that support :mod:`readline`, this module will also import and
 configure the :mod:`rlcompleter` module, if Python is started in
 :ref:`interactive mode <tut-interactive>` and without the :option:`-S` option.
-The default behavior is to enable tab-completion and to use
+The default behavior is to enable tab completion and to use
 :file:`~/.python_history` as the history save file.  To disable it, delete (or
 override) the :data:`sys.__interactivehook__` attribute in your
 :mod:`sitecustomize` or :mod:`usercustomize` module or your
