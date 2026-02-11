@@ -519,7 +519,7 @@ The following types can be pickled:
 
 * classes accessible from the top level of a module;
 
-* instances of such classes whose result of calling :meth:`~object.__getstate__`
+* instances of such classes for which the result of calling :meth:`~object.__getstate__`
   is picklable  (see section :ref:`pickle-inst` for details).
 
 Attempts to pickle unpicklable objects will raise the :exc:`PicklingError`
