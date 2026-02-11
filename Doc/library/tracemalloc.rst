@@ -723,7 +723,7 @@ Traceback
    :attr:`Traceback.total_nframe` attribute. That allows one to know if a traceback
    has been truncated by the traceback limit.
 
-   The :attr:`Trace.traceback` attribute is a class:`Traceback` instance.
+   The :attr:`Trace.traceback` attribute is a :class:`Traceback` instance.
 
    .. versionchanged:: 3.7
       Frames are now sorted from the oldest to the most recent, instead of most recent to oldest.
