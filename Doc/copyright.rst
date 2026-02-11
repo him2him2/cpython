@@ -2,7 +2,7 @@
 Copyright
 *********
 
-Python and this documentation is:
+Python and this documentation are:
 
 Copyright © 2001 Python Software Foundation. All rights reserved.
 
